@@ -1,7 +1,7 @@
 # QRSS
 Repository containing monoband QRSS beacon programs with the following modulations: 
-- **OOK (On-Off Keying):** Traditional CW/Morse modulation.  
-- **FSK / DFCW Morse:** Uses different frequencies for dots and dashes. Can be hard or soft keyed.  
+- **OOK (On-Off Keying):** Traditional CW/Morse modulation (QRSS_CW.ino).  
+- **FSK / DFCW Morse:** Uses different frequencies for dots and dashes. Can be hard (QRSS_DFCW_H.ino) or soft keyed (QRSS_DFCW_S.ino).  
  
   
 ## Why Transmit at Very Slow Speeds (QRSS) in a Fast-Paced World?
