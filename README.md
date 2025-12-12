@@ -76,9 +76,9 @@ Since CW, DFCW, and Multi-Tone Hell cannot be reliably decoded by ear, software 
 
 **Real-time Monitoring:** QRSS Plus allows live monitoring of QRSS transmissions (grabbers).  
 
+
 **LITOPO Web Viewer:** [https://qsl.net/g0ftd/other/litopo/litopo1.htm](https://qsl.net/g0ftd/other/litopo/litopo1.htm)
 
-
-This program is ideal for experimenting with ultra-slow Morse transmission on popular QRSS bands using a Si5351 clock generator.  
+** More information in spanish language: https://ea5jtt.blogspot.com/2025/12/qrss-transmsiones-muy-lentas.html
 
 YOU MUST A AMATEUR LICENCE FOR RUN THIS PROGRAM
